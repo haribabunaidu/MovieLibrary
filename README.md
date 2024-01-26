@@ -1,2 +1,2 @@
 # MovieLibrary
-Spring Boot Project for Movie Flix Movie Library
+Spring Boot Project for Movie Flix Library
